@@ -1823,10 +1823,10 @@
   dependencies:
     "@types/istanbul-lib-report" "*"
 
-"@types/jest@*", "@types/jest@^26.0.15":
-  version "26.0.19"
-  resolved "https://registry.yarnpkg.com/@types/jest/-/jest-26.0.19.tgz#e6fa1e3def5842ec85045bd5210e9bb8289de790"
-  integrity sha512-jqHoirTG61fee6v6rwbnEuKhpSKih0tuhqeFbCmMmErhtu3BYlOZaXWjffgOstMM4S/3iQD31lI5bGLTrs97yQ==
+"@types/jest@*", "@types/jest@^26.0.22":
+  version "26.0.22"
+  resolved "https://registry.yarnpkg.com/@types/jest/-/jest-26.0.22.tgz#8308a1debdf1b807aa47be2838acdcd91e88fbe6"
+  integrity sha512-eeWwWjlqxvBxc4oQdkueW5OF/gtfSceKk4OnOAGlUSwS/liBRtZppbJuz1YkgbrbfGOoeBHun9fOvXnjNwrSOw==
   dependencies:
     jest-diff "^26.0.0"
     pretty-format "^26.0.0"
@@ -1930,10 +1930,10 @@
     "@types/prop-types" "*"
     csstype "^3.0.2"
 
-"@types/recharts@^1.8.18":
-  version "1.8.18"
-  resolved "https://registry.yarnpkg.com/@types/recharts/-/recharts-1.8.18.tgz#dc7f2a27441ebc902b30ae7cd1d1af50381161db"
-  integrity sha512-wohEYbFZJDY+WbTdJKv/Z2y5T0qckZ40yUJhx+Pfbj5WynBhkBForFmGCigEFa0bIcaeoSeTNuCi9udGy2CeJQ==
+"@types/recharts@^1.8.19":
+  version "1.8.19"
+  resolved "https://registry.yarnpkg.com/@types/recharts/-/recharts-1.8.19.tgz#047f72cf4c25df545aa1085fe3a085e58a2483c1"
+  integrity sha512-Fd2cYnBlWz/ga8rLmjwsZNBAc4CzXZiuTYPPqMIgrtQ02yI/OTm8WPM6ZyUuYlSdyangtsvFmHWzZ7W4tuknDA==
   dependencies:
     "@types/d3-shape" "^1"
     "@types/react" "*"
